@@ -83,6 +83,9 @@ const Login = (props) => {
                 <Link className="simpleLink" to="/signup">
                   Don't have an account ? Sign Up Now
                 </Link>
+                <br />
+                <Link className='simpleLink' to="/forgetpassword">Forgotten Password
+                </Link>
               </div>
             </div>
           </div>
